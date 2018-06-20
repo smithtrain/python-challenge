@@ -1,0 +1,7 @@
+Financial Analysis
+------------------
+Total Months: 41
+Total Profit & Loss: $18971412
+Average Month on Month change in P&L: $-6,758.98
+Greatest Month on Month increase in P&L: Feb-16 ($1837235)
+Greatest Month on Month decrease in P&L:Aug-14 ($-1779747)
